@@ -1476,7 +1476,7 @@ def loading_caption(user):
         f"{tg('crown','👑')} 𝗔𝗰𝗰𝗲𝘀𝘀 ➛ <b>Loading…</b>\n"
         f"{tg('cal','📅')} 𝗝𝗼𝗶𝗻𝗲𝗱 ➛ <b>Loading…</b>\n"
         f"━━━━━━━━━━━━━━━━\n"
-        f"{tg('cat','🐈‍⬛')} 𝗗𝗲𝘃 ➛ <a href='https://t.me/DarkCarder05'>{OWNER_NAME}</a>"
+        f"{tg('cat','🐈‍⬛')} 𝗗𝗲𝘃 ➛ <a href='https://t.me/Poriot_ke'>{OWNER_NAME}</a>"
     )
 
 def full_caption(user, access, joined):
@@ -1487,7 +1487,7 @@ def full_caption(user, access, joined):
         f"{tg('crown','👑')} 𝗔𝗰𝗰𝗲𝘀𝘀 ➛ <b>{access}</b>\n"
         f"{tg('cal','📅')} 𝗝𝗼𝗶𝗻𝗲𝗱 ➛ <b>{joined}</b>\n"
         f"━━━━━━━━━━━━━━━━\n"
-        f"{tg('cat','🐈‍⬛')} 𝗗𝗲𝘃 ➛ <a href='https://t.me/DarkCarder05'>{OWNER_NAME}</a>"
+        f"{tg('cat','🐈‍⬛')} 𝗗𝗲𝘃 ➛ <a href='https://t.me/Poriot_ke'>{OWNER_NAME}</a>"
     )
 
 MAIN_KB = {"inline_keyboard": [
